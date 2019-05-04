@@ -1,0 +1,4 @@
+  Este script converte os dados contidos no SGDB para um arquivo csv. Para
+executá-lo digite o seguinte:
+
+$ python mysql2csv.py > nome_do_arquivo.sql
