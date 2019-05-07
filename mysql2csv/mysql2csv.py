@@ -39,7 +39,7 @@ linhaTitulo += '(programa) id;(programa) nome;(programa) codigo;(programa) uf;(p
 linhaTitulo += '(instituicao) id;(instituicao) nome;(instituicao) codigo;(instituicao) acronimo;(instituicao) endereco;'
 linhaTitulo += '(instituicao) distrito;(instituicao) cidade;(instituicao) estado;(instituicao) tipo;(instituicao) cep;'
 linhaTitulo += '(instituicao) caixa_postal;(instituicao) url;(instituicao) coordenadas;'
-linhaTitulo += '(curso) id;(curso) nome;(curso) situacao;(curso) nivel;(curso) nota_curso;(curso) data_reconhecimento;'
+linhaTitulo += '(curso) id;(curso) nome;(curso) situacao;(curso) nivel;(curso) nota_curso;(curso) data_recomendacao;'
 linhaTitulo += '(curso) data_inicio;(curso) programa_id'
 
 print(linhaTitulo)
